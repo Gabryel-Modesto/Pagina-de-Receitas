@@ -1,2 +1,5 @@
 # Pagina-de-Receitas
-Projeto de estudos
+ 
+ Fiz uma página de receitas para treinar a utilização do HTML e CSS
+
+ ### Está em produção ainda
