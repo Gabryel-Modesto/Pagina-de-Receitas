@@ -4,8 +4,8 @@ Uma página web simples e elegante que apresenta uma receita deliciosa de cupcak
 
 ## ✅ Tecnologias utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Fonte Google Fonts: Alice
 
 ## 🎨 Funcionalidades
