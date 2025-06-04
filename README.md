@@ -1,5 +1,22 @@
-# Pagina-de-Receitas
- 
- Fiz uma página de receitas para treinar a utilização do HTML e CSS
+# 🍰 Página de Receita - Cupcake de Café com Chantilly
 
- ### Está em produção ainda
+Uma página web simples e elegante que apresenta uma receita deliciosa de cupcake de café com chantilly. O objetivo do projeto é praticar a estruturação HTML e o uso de CSS para estilização, criando uma apresentação visual agradável e clara.
+
+## ✅ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- Fonte Google Fonts: Alice
+
+## 🎨 Funcionalidades
+
+- Estruturação semântica com `section` para conteúdo organizado.
+- Estilização moderna com background e tipografia personalizada.
+- Lista de ingredientes bem organizada.
+- Passo a passo detalhado no modo de preparo.
+- Responsividade básica com centralização do conteúdo.
+- Imagem principal para ilustrar a receita.
+
+## 🙋‍♂️ Autor
+
+Desenvolvido com ❤️ por **Gabryel_M**.
