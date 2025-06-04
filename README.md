@@ -19,4 +19,4 @@ Uma página web simples e elegante que apresenta uma receita deliciosa de cupcak
 
 ## 🙋‍♂️ Autor
 
-Desenvolvido com ❤️ por **Gabryel_M**.
+Desenvolvido por **Gabryel_M**.
